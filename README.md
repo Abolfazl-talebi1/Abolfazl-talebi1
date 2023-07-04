@@ -1,21 +1,64 @@
-# 💫 About Me:
-Hello, I am a front-end website designer<br>Programming is always a priority for me when learning<br>I am currently working as a freelancer. I have many projects that you can watch
+<h2 align="left">
+	<br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+	<br> I'm Abolfazl , Front End Developer :computer:<br><br/>
+</h2> 
+
+<div>
+	
+- 🌱 I’m currently Working with **TailwindCss**
+- :neutral_face: I have a **love** relationship with **Programming** 
+- 💬 If you have a problem, I will be happy to help you
+- 🚀 I am always learning and improving my skills in the field of front end
+
+<div>
+	
+<br />
+	
+<div>
+	
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+
+<a href="https://www.w3.org/html/" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/79712314/224834574-3a46089f-a344-4fef-9b4d-3703d5920e07.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<a href="https://webpack.js.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
+</a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abolfazltalebi.wp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abolfazltalebi1) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abolfazl-talebi1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abolfazl-talebi1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-talebi1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+</div>
+	
+<br />
+	
+<div>
+	
+<h2 align="left">:heart: Let's get connected:</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<a href="https://t.me/dev_1383" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192520-a8429250-0cbb-46d1-9ad6-b82fb8b99349.svg" alt="telegram" width="40" height="40"/>
+</a>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<a href="https://instagram.com/abolfazltalebi.wp" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192493-8d077bb1-c29a-4100-a0e2-b3bc27244820.svg" alt="instagram" width="40" height="40"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/Abolfazl-talebi1" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238661011-148a23f5-07be-4fb9-bda2-6671852ca716.svg" alt="linkedin" width="40" height="40"/>
+</a>
+
+</div>
